@@ -6,5 +6,13 @@
         "GDTAppId":"id",         
         "GDTSplashAdSlotId":"kaipin",   
         "GDTUnifiedInterstitialId":"chaping"
+    },
+    "com.ctx.shenghuobiji":{
+        "BU_AppId":"5165880",
+        "BU_SplashAdSlotId":"887468017",
+        "BU_NativeExpressId":"946062078",
+        "GDTAppId":"1111787414",         
+        "GDTSplashAdSlotId":"6011586217420691",   
+        "GDTUnifiedInterstitialId":"2011087257829643"
     }
 }
