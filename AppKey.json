@@ -1,0 +1,10 @@
+{
+    "boundleId":{
+        "BU_AppId":"id",
+        "BU_SplashAdSlotId":"kaipin",
+        "BU_NativeExpressId":"chaping",
+        "GDTAppId":"id",         
+        "GDTSplashAdSlotId":"kaipin",   
+        "GDTUnifiedInterstitialId":"chaping"
+    }
+}
